@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fc3a22049c640c0ae891fa0b4d873382/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/b9c03ee2284f3d62b0520775c2156d5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0e01e6f21ec0cb6d09dd7f4dd0306053/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d61a3f195deaa95d7b348330388e0723/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4560b2f620d07e3c1da4ee209946ea75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a0fb1656b0ff4068f5a32787d56f20fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c2bb648d9192fd84e2484cf853a3d861/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c5623c8de1b53c48db19f6c7ab32ea28/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/maryuri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d9bb03af410a3cc78df2f4b7cf6cc103/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:5:5-18:19
+	android:supportsRtl
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.recyclerview.MainActivity
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fc3a22049c640c0ae891fa0b4d873382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/fc3a22049c640c0ae891fa0b4d873382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/b9c03ee2284f3d62b0520775c2156d5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/b9c03ee2284f3d62b0520775c2156d5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0e01e6f21ec0cb6d09dd7f4dd0306053/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/0e01e6f21ec0cb6d09dd7f4dd0306053/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d61a3f195deaa95d7b348330388e0723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/d61a3f195deaa95d7b348330388e0723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4560b2f620d07e3c1da4ee209946ea75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/4560b2f620d07e3c1da4ee209946ea75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a0fb1656b0ff4068f5a32787d56f20fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/a0fb1656b0ff4068f5a32787d56f20fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c2bb648d9192fd84e2484cf853a3d861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/c2bb648d9192fd84e2484cf853a3d861/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c5623c8de1b53c48db19f6c7ab32ea28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/maryuri/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c5623c8de1b53c48db19f6c7ab32ea28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/maryuri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d9bb03af410a3cc78df2f4b7cf6cc103/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/maryuri/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/d9bb03af410a3cc78df2f4b7cf6cc103/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maryuri/Documents/ASProjects/RecyclerViewKotlin/app/src/main/AndroidManifest.xml
